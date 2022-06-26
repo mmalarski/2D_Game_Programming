@@ -12,7 +12,7 @@ being done during the course of one semester, implementing certain 2d mechanics.
 
 ### Configuration
 You can follow the tutorial on [LazyFoo's](https://lazyfoo.net/tutorials/SDL/index.php) 
-website if you want to use **Visual Studio**. I prefer working with **Clion** and 
+website if you want to use **Visual Studio**. I prefer working with **CLion** and 
 [this video](https://www.youtube.com/watch?v=7sIBklOTImI) was of great help
 for me when setting everything up.
 
